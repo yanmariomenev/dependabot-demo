@@ -5,3 +5,5 @@ updates:
     directory: "/dynamic-translation-json-files"
     schedule:
       interval: "daily"
+    allow:
+      - dependency-name: "@progress/kendo-angular-*"
