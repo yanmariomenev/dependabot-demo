@@ -1,0 +1,6 @@
+{
+    "rtl": false,
+    "messages": {
+      "kendo.grid.noRecords": "No hay datos disponibles."
+    }
+  }
