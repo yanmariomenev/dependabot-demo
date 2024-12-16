@@ -13,3 +13,7 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+  - package-ecosystem: npm
+    directory: "/dynamic-translation-json-files"
+    schedule:
+      interval: "daily"
